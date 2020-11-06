@@ -303,7 +303,7 @@ export default AdminIndex
 
 ```
 
-可以看到这里就是展现一个又一个组件，[具体到每个组件我就放到github上了](),来看一下最终的效果吧
+可以看到这里就是展现一个又一个组件，[具体到每个组件我就放到github上了](https://github.com/1793523411/serveless-antdv/tree/main/readme),来看一下最终的效果吧
 
 ![image-20201106060508054](image-20201106060508054.png)
 
